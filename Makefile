@@ -46,6 +46,7 @@ SRC_NAME = ft_printf \
 			lib/ft_realloc \
 			lib/ft_strncpy \
 			lib/ft_putnbr \
+			lib/ft_putchar \
 			\
 			option/option_b \
 			option/option_c \
